@@ -1,6 +1,6 @@
-Jiarong Li (Kelvin Lee)  
-B.S  
-Graduate student  
+Jiarong Li  
+English name: Kelvin Lee  
+Postgraduate student  
 Email: lijiarong2020@sinh.ac.cn  
 
 ### Education  
