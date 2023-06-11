@@ -1,4 +1,4 @@
-李家荣 Jiarong Li  
+Jiarong Li  
 English name: Kelvin Lee  
 Postgraduate student  
 Email: lijiarong2020@sinh.ac.cn  
