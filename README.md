@@ -1,6 +1,6 @@
 Jiarong Li  
 English name: Kelvin Lee  
-PhD. candidate.  
+Ph.D. candidate  
 Email: lijiarong2020@sinh.ac.cn  
 
 ### Education  
