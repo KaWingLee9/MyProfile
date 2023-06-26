@@ -4,6 +4,7 @@ Ph.D. candidate
 Email: lijiarong2020@sinh.ac.cn  
 
 ### Experience  
+
 2020-Present, Ph.D. candidate in Computational Biology  
 Key Laboratory of Computational Biology, Shanghai Institute of Nutrition and Health, Chinese Academy of Sciences (Supervisor: Hong Li, PhD.)  
 
@@ -14,7 +15,9 @@ College of Life Science and Technology, Jinan University (Supervisor: Zhi Huang 
 Guangzhou No.4 Middle School  
 
 ### Research Areas and Interests  
+
 ...  
 
 ### Publications  
+
 ...  
