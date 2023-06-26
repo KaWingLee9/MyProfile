@@ -10,7 +10,7 @@ Key Laboratory of Computational Biology, Shanghai Institute of Nutrition and Hea
 2016-2020, B.S. in Biological Science  
 College of Life Science and Technology, Jinan University  
 
-2013-2016  
+2013-2016, Senior high school student  
 Guangzhou No.4 Middle School  
 
 ### Research Areas and Interests  
